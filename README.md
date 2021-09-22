@@ -1,2 +1,4 @@
 # DWS-PHP
-Desarrollo web enl entorno servidor - PHP
+Desarrollo web en entorno servidor - PHP
+
+Ejercicios de php de la asignatura DWS
